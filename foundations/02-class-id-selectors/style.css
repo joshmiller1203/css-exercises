@@ -1,0 +1,19 @@
+.odd {
+    font-family:Verdana, Geneva, DejaVu Sans, sans-serif;
+    background-color: rgb(198, 70, 94);
+}
+
+#div1 {
+    color: rgb(79, 70, 139);
+    font-size: 36px;
+}
+
+#div2 {
+    background-color: rgb(98, 210, 98);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.unique {
+    font-size: 24px;
+}
